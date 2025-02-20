@@ -1,0 +1,7 @@
+C:\Users\mfundo mthembu\source\repos\ProductSortingAppWithDB\bin\Debug\ProductSortingAppWithDB.exe.config
+C:\Users\mfundo mthembu\source\repos\ProductSortingAppWithDB\bin\Debug\ProductSortingAppWithDB.exe
+C:\Users\mfundo mthembu\source\repos\ProductSortingAppWithDB\bin\Debug\ProductSortingAppWithDB.pdb
+C:\Users\mfundo mthembu\source\repos\ProductSortingAppWithDB\obj\Debug\ProductSortingAppWithDB.csproj.AssemblyReference.cache
+C:\Users\mfundo mthembu\source\repos\ProductSortingAppWithDB\obj\Debug\ProductSortingAppWithDB.csproj.CoreCompileInputs.cache
+C:\Users\mfundo mthembu\source\repos\ProductSortingAppWithDB\obj\Debug\ProductSortingAppWithDB.exe
+C:\Users\mfundo mthembu\source\repos\ProductSortingAppWithDB\obj\Debug\ProductSortingAppWithDB.pdb
