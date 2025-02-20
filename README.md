@@ -91,6 +91,8 @@ The application uses two configuration files:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
+## Contact
 
-[License Type] - Specific license to be determined
+Mfundo Mthembu
+mfundo1.mthembu@gmail.com
+www.linkedin.com/in/mfundomthembu/ 
